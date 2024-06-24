@@ -1,8 +1,8 @@
-export default { 
+export default {
     theme: {
         fontFamily: {
-            'Roboto-Slab': 'Roboto Slab',
-            'Roboto': 'Roboto'
+            'Roboto': 'Roboto',
+            'Roboto-Slab': 'Roboto Slab'
         }
     }
 }
