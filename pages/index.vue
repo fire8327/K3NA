@@ -39,6 +39,11 @@
             </div>
         </div>
     </div>
+    <div class="flex flex-col gap-6">
+        <p class="font-Roboto-Slab text-3xl font-semibold tracking-wider">Контакты</p>
+        <OurContacts></OurContacts>
+        <NuxtLink class="px-4 py-2 rounded-xl border border-[#292929] self-end">Узнать больше</NuxtLink>
+    </div>
 </template>
 
 <script setup>
